@@ -1,32 +1,32 @@
-
-# 💫 About Me:
-Hola, soy Erick Inga<br>¡Bienvenido a mi repositorio de GitHub! Soy un desarrollador en proceso, enfocado en el Front-End y apasionado por la creatividad. Desde pequeño he tenido curiosidad por crear y diseñar aplicaciones que sean atractivas y útiles para las personas, y ahora tengo la oportunidad de convertir esa pasión en realidad.<br><br>Habilidades y herramientas<br>Aquí algunas de mis habilidades y herramientas técnicas:<br><br>Lenguajes de programación: HTML, CSS, JavaScript<br>Frameworks y bibliotecas: React.js, Bootstrap,Talwind,Next.js<br>Control de versiones: Git, GitHub
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Erick-inga-calle/) 
+## 🚀 Sobre mi
+Hola, soy Erick Inga
+¡Bienvenido a mi repositorio de GitHub! Soy un desarrollador en proceso, enfocado en el Front-End y apasionado por la creatividad. Desde pequeño he tenido curiosidad por crear y diseñar aplicaciones que sean atractivas y útiles para las personas, y ahora tengo la oportunidad de convertir esa pasión en realidad.
 
 
 
+## ¿Que tecnologias uso?
+
+**Lenguajes de programación:** HTML, CSS, JavaScript
+
+**Frameworks y bibliotecas:** React.js, Bootstrap,Talwind,Next.js
+
+**Control de versiones:** Git, GitHub
+## Proyectos
+Este proyecto se realizo en grupo , fue realizado como proyecto final para el Bootcamp Soy Hnery en el cual se pone a prueba todos nuestros conocimeintos y aptitudes que se fueron aprendiendo a lo largo de estos meses
 
 
 
+[Taty Meals](https://tasty-meals.vercel.app/)
+
+
+## 🔗 No dudes en contactarme 
+podemos realizar grandes proyectos 
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Erick-inga-calle/)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">Lenguajes y Herramientas</h3>
+## 🛠 Skills
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
