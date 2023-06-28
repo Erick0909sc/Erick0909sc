@@ -1,3 +1,35 @@
+
+Hola, soy Erick Inga
+¡Bienvenido a mi repositorio de GitHub! Soy un desarrollador en proceso, enfocado en el Front-End y apasionado por la creatividad. Desde pequeño he tenido curiosidad por crear y diseñar aplicaciones que sean atractivas y útiles para las personas, y ahora tengo la oportunidad de convertir esa pasión en realidad.
+
+Habilidades y herramientas
+Aquí algunas de mis habilidades y herramientas técnicas:
+
+Lenguajes de programación: HTML, CSS, JavaScript
+Frameworks y bibliotecas: React.js, Bootstrap
+Diseño de interfaz: Adobe XD, Figma
+Control de versiones: Git, GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
