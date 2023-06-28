@@ -16,7 +16,7 @@ Este proyecto se realizo en grupo , fue realizado como proyecto final para el Bo
 
 
 
-[Taty Meals](https://tasty-meals.vercel.app/)
+[Tasty Meals](https://tasty-meals.vercel.app/)
 
 
 ## 🔗 No dudes en contactarme 
