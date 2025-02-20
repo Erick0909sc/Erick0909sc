@@ -16,7 +16,8 @@ Este proyecto se realizo en grupo , fue realizado como proyecto final para el Bo
 
 
 
-[Tasty Meals](https://tasty-meals.vercel.app/)
+[Turismo Ricky](https://turismo-rho.vercel.app/)
+[Autorepuesto Ricky](https://repuestos.vercel.app/)
 
 
 ## 🔗 No dudes en contactarme 
