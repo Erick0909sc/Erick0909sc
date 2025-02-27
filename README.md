@@ -12,7 +12,7 @@ Hola, soy Erick Inga
 
 **Control de versiones:** Git, GitHub
 ## Proyectos
-Este proyecto se realizo en grupo , fue realizado como proyecto final para el Bootcamp Soy Hnery en el cual se pone a prueba todos nuestros conocimeintos y aptitudes que se fueron aprendiendo a lo largo de estos meses
+Estos proyectos se realizaron con un enfoque determinado para demostrar mis habilidades en programación y evaluar los resultados obtenidos. Cada uno de ellos representa un desafío resuelto, aplicando buenas prácticas de desarrollo, optimización de código y uso de tecnologías modernas. A través de estos proyectos, busco no solo mostrar mis conocimientos técnicos, sino también mi capacidad para diseñar soluciones eficientes, escalables y bien estructuradas.
 
 
 
